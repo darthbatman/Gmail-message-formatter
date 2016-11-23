@@ -1,3 +1,5 @@
 *.html
 *.mbox
 .DS_Store
+/Chat4
+/Chat44
